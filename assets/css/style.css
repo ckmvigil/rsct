@@ -468,8 +468,20 @@ nav ul li a {
  max-width: 80%;
  margin-bottom: 0;
  text-align: left;
-}
 
+}
+#about .about-descr .link {
+    padding: 2px 0 0 0;
+ position: relative;
+ 
+ font-size: 14px;
+ color: #999999;
+ font-family: "Poppins", helvetica;
+ 
+ text-transform: uppercase;
+ letter-spacing: 0.02em;
+ text-transform: capitalize;
+}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
